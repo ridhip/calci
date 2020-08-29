@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular10example-calci"
+    }
+  },
+  "defaultProject": "angular10example-calci",
+  "cli": {
+    "analytics": false
+  }
 }
